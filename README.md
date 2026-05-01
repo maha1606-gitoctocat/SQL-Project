@@ -102,4 +102,4 @@ CREATE DATABASE employee;
 - Hands-on experience with constraints and relationships  
 - Database design fundamentals  
 
-![Alt text] ()
+![Alt text](https://github.com/maha1606-gitoctocat/SQL-Project/blob/219851692858b9683dba561cf48b21d804bd84a4/Data%20Model.jpg)
